@@ -35,19 +35,33 @@ namespace RestCustomerService.Controllers
         [HttpGet("{id}")]
         public Customer Get(int id)
         {
-            return cList[id-1];
+            return cList.Find(x => x.Id == id);
         }
 
         // POST api/<CustomerController>
         [HttpPost]
-        public void Post([FromBody] string value)
+        public bool Post([FromBody] Customer newCustomer)
         {
+           newCustomer.Id =  cList.Last().Id + 1;
+            cList.Add(newCustomer);
+            return true;
         }
 
         // PUT api/<CustomerController>/5
         [HttpPut("{id}")]
-        public void Put(int id, [FromBody] string value)
+        public bool Put(int id, [FromBody] Customer newCustomer)
         {
+
+
+            for (int i = 0; i < cList.Count; i++)
+            {
+                if (cList[i].Id == id)
+                {
+                    cList[i] = newCustomer;
+                    return true;
+                }
+            }
+            return false;
         }
 
         // DELETE api/<CustomerController>/5

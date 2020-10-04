@@ -32,6 +32,28 @@ namespace CustomerApp
             }
         }
 
+        public static async Task<HttpResponseMessage> Post(string url,T newT)
+        {
+            using (HttpClient client = new HttpClient())
+            {
+                string ObjectJson = JsonConvert.SerializeObject(newT);
+                var data = new StringContent(ObjectJson, Encoding.UTF8, "application/json");
+                HttpResponseMessage message = await client.PostAsync(url,data);
+                return message;
+            }
+        }
+
+        public static async Task<HttpResponseMessage> Put(string url, T newT)
+        {
+            using (HttpClient client = new HttpClient())
+            {
+                string json = JsonConvert.SerializeObject(newT);
+                var data = new StringContent(json, Encoding.UTF8,"application/json");
+                HttpResponseMessage message = await client.PutAsync(url, data);
+                return message;
+            }
+        }
+
         public static async Task<HttpResponseMessage> Delete(string url, int ID)
         {
             using (HttpClient client = new HttpClient())
