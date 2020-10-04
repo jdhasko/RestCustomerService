@@ -1,0 +1,9 @@
+C:\Users\Dominik Haskó\source\repos\jdhasko\RestCustomerService\RestCustomerService\ClassLibrary\bin\Debug\netcoreapp3.1\ClassLibrary.deps.json
+C:\Users\Dominik Haskó\source\repos\jdhasko\RestCustomerService\RestCustomerService\ClassLibrary\bin\Debug\netcoreapp3.1\ClassLibrary.dll
+C:\Users\Dominik Haskó\source\repos\jdhasko\RestCustomerService\RestCustomerService\ClassLibrary\bin\Debug\netcoreapp3.1\ClassLibrary.pdb
+C:\Users\Dominik Haskó\source\repos\jdhasko\RestCustomerService\RestCustomerService\ClassLibrary\obj\Debug\netcoreapp3.1\ClassLibrary.csprojAssemblyReference.cache
+C:\Users\Dominik Haskó\source\repos\jdhasko\RestCustomerService\RestCustomerService\ClassLibrary\obj\Debug\netcoreapp3.1\ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Dominik Haskó\source\repos\jdhasko\RestCustomerService\RestCustomerService\ClassLibrary\obj\Debug\netcoreapp3.1\ClassLibrary.AssemblyInfo.cs
+C:\Users\Dominik Haskó\source\repos\jdhasko\RestCustomerService\RestCustomerService\ClassLibrary\obj\Debug\netcoreapp3.1\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Dominik Haskó\source\repos\jdhasko\RestCustomerService\RestCustomerService\ClassLibrary\obj\Debug\netcoreapp3.1\ClassLibrary.dll
+C:\Users\Dominik Haskó\source\repos\jdhasko\RestCustomerService\RestCustomerService\ClassLibrary\obj\Debug\netcoreapp3.1\ClassLibrary.pdb

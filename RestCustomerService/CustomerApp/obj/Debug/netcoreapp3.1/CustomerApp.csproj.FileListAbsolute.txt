@@ -1,0 +1,17 @@
+C:\Users\Dominik Haskó\source\repos\jdhasko\RestCustomerService\RestCustomerService\CustomerApp\bin\Debug\netcoreapp3.1\ClassLibrary.dll
+C:\Users\Dominik Haskó\source\repos\jdhasko\RestCustomerService\RestCustomerService\CustomerApp\obj\Debug\netcoreapp3.1\CustomerApp.csprojAssemblyReference.cache
+C:\Users\Dominik Haskó\source\repos\jdhasko\RestCustomerService\RestCustomerService\CustomerApp\obj\Debug\netcoreapp3.1\CustomerApp.AssemblyInfoInputs.cache
+C:\Users\Dominik Haskó\source\repos\jdhasko\RestCustomerService\RestCustomerService\CustomerApp\obj\Debug\netcoreapp3.1\CustomerApp.AssemblyInfo.cs
+C:\Users\Dominik Haskó\source\repos\jdhasko\RestCustomerService\RestCustomerService\CustomerApp\bin\Debug\netcoreapp3.1\CustomerApp.exe
+C:\Users\Dominik Haskó\source\repos\jdhasko\RestCustomerService\RestCustomerService\CustomerApp\bin\Debug\netcoreapp3.1\CustomerApp.deps.json
+C:\Users\Dominik Haskó\source\repos\jdhasko\RestCustomerService\RestCustomerService\CustomerApp\bin\Debug\netcoreapp3.1\CustomerApp.runtimeconfig.json
+C:\Users\Dominik Haskó\source\repos\jdhasko\RestCustomerService\RestCustomerService\CustomerApp\bin\Debug\netcoreapp3.1\CustomerApp.runtimeconfig.dev.json
+C:\Users\Dominik Haskó\source\repos\jdhasko\RestCustomerService\RestCustomerService\CustomerApp\bin\Debug\netcoreapp3.1\CustomerApp.dll
+C:\Users\Dominik Haskó\source\repos\jdhasko\RestCustomerService\RestCustomerService\CustomerApp\bin\Debug\netcoreapp3.1\CustomerApp.pdb
+C:\Users\Dominik Haskó\source\repos\jdhasko\RestCustomerService\RestCustomerService\CustomerApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Dominik Haskó\source\repos\jdhasko\RestCustomerService\RestCustomerService\CustomerApp\bin\Debug\netcoreapp3.1\ClassLibrary.pdb
+C:\Users\Dominik Haskó\source\repos\jdhasko\RestCustomerService\RestCustomerService\CustomerApp\obj\Debug\netcoreapp3.1\CustomerApp.csproj.CoreCompileInputs.cache
+C:\Users\Dominik Haskó\source\repos\jdhasko\RestCustomerService\RestCustomerService\CustomerApp\obj\Debug\netcoreapp3.1\CustomerApp.csproj.CopyComplete
+C:\Users\Dominik Haskó\source\repos\jdhasko\RestCustomerService\RestCustomerService\CustomerApp\obj\Debug\netcoreapp3.1\CustomerApp.dll
+C:\Users\Dominik Haskó\source\repos\jdhasko\RestCustomerService\RestCustomerService\CustomerApp\obj\Debug\netcoreapp3.1\CustomerApp.pdb
+C:\Users\Dominik Haskó\source\repos\jdhasko\RestCustomerService\RestCustomerService\CustomerApp\obj\Debug\netcoreapp3.1\CustomerApp.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lByV5xRD5Zvobg39YCIYHkPYf7ZYHS+xLEcKyO7iaStx1pVMmmIo4sfVL8xb4VcSikZ2wCHK+8odT7zREuAScQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dominik Haskó\\source\\repos\\jdhasko\\RestCustomerService\\RestCustomerService\\CustomerApp\\CustomerApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dominik Haskó\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
